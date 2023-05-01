@@ -1,0 +1,12 @@
+emp_id,name,dept,salary ,age,sex
+1,argha,sale,10000,25,M
+2,sohag,tech,20000,25,M
+7,soura,tech,30000,25,M
+4,shivam,tech,10000,26,F
+5,lohit,hr,40000,26,F
+6,prakash,hr,50000,26,M
+8,sourabh,tech,60000,,F
+10,biswa,sale,50000,,M
+7,,tech,30000,25,M
+6,prakash,,50000,26,M
+4,shivam,tech,10000,26,F
